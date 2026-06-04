@@ -6,7 +6,8 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 * 🚀 **Tech Development Intern** @ N6T Technologies Private Limited *(2-month intensive development)*.
 * 🛡️ **Freelance Endpoint Security Consultant** @ Astadik Civiltech LLP *(Securing infrastructure & endpoints)*.
 * 🎥 **Founder of JEE Competitors YouTube Channel** (300+ Subscribers).
-* 🌱 **Currently learning:** Agentic AI, Advanced RAG Architectures, and Scalable System Design.
+* 🌱 **Currently learning:** Agentic AI Frameworks, Advanced RAG Architectures, and High-Scale System Design.
+
 ---
 
 ## 🌐 Connect With Me
@@ -25,6 +26,7 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00A4EF?style=for-the-badge&logo=meta&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -48,6 +50,7 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
