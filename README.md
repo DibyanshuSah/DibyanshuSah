@@ -2,12 +2,11 @@
 
 I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, deeply passionate about building intelligent systems, securing infrastructure, and solving complex algorithmic challenges.
 
-*   💻 **AI/ML Engineer** focused on GenAI, LLMs, RAG, NLP, and Production AI Systems.
-*   🚀 **Tech Development Intern** @ N6T Technologies Private Limited.
-*   🛡️ **Endpoint Security Consultant** @ Astadik Civiltech LLP.
-*   🏆 **Solved 400+ LeetCode Problems** — Passionate about Data Structures & Algorithms.
-*   🎥 **Founder of JEE Competitors YouTube Channel** (300+ Subscribers).
-*   🌱 **Currently learning:** FastAPI, Agentic AI, Advanced RAG, and System Design.
+* 💻 **AI/ML Engineer** focused on GenAI, LLMs, RAG, NLP, and Production AI Systems.
+* 🚀 **Tech Development Intern** @ N6T Technologies Private Limited *(2-month intensive development)*.
+* 🛡️ **Freelance Endpoint Security Consultant** @ Astadik Civiltech LLP *(Securing infrastructure & endpoints)*.
+* 🎥 **Founder of JEE Competitors YouTube Channel** (300+ Subscribers).
+* 🌱 **Currently learning:** FastAPI, Agentic AI, Advanced RAG, and System Design.
 
 ---
 
@@ -25,6 +24,8 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 
 ### 🧠 AI / ML & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -59,11 +60,10 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=DibyanshuSah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Dibyanshu's GitHub Stats" height="160px"/>
-  <img src="https://streak-stats.demolab.com/?user=DibyanshuSah&theme=dark&hide_border=false" alt="GitHub Streak" height="160px"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DibyanshuSah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="160px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DibyanshuSah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="160px"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=DibyanshuSah&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" height="160px"/>
 </p>
 
