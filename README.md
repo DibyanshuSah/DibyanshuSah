@@ -6,8 +6,7 @@ I am a tech enthusiast and developer pursuing my **B.Tech at NIT Rourkela**, dee
 * 🚀 **Tech Development Intern** @ N6T Technologies Private Limited *(2-month intensive development)*.
 * 🛡️ **Freelance Endpoint Security Consultant** @ Astadik Civiltech LLP *(Securing infrastructure & endpoints)*.
 * 🎥 **Founder of JEE Competitors YouTube Channel** (300+ Subscribers).
-* 🌱 **Currently learning:** FastAPI, Agentic AI, Advanced RAG, and System Design.
-
+* 🌱 **Currently learning:** Agentic AI, Advanced RAG Architectures, LLMOps, and Scalable System Design.
 ---
 
 ## 🌐 Connect With Me
